@@ -7,5 +7,7 @@ The app allows restaurants to receive a direct online order from a customer. The
 ## Objective of this analysis
 The food aggregator company has stored the data of the orders the registered customers made in their online portal. The aim of this analysis is to get a fair idea about the demand of different restaurants which will help them in enhancing their customer experience.
 ## Analysis
+<img src="Required Library.PNG">
+
 ## Conclusion
 ## Recommendation
